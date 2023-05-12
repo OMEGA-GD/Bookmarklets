@@ -1,2 +1,3 @@
 # Bookmarklets
-some Bookmarklets made by SnesLover22.  https://snescraft.me/Mathews-Collection/index.html
+some Bookmarklets made by SnesLover22.
+## all these bookmarks are also at his website: https://snescraft.me/Mathews-Collection/index.html
