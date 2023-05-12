@@ -1,0 +1,1 @@
+javascript:(()=>{setTimeout(()=>{document.body.innerHTML = '';document.body.style.background = 'rgb(0, 120, 215)';document.body.style.overflow = 'hidden';try{document.body.parentElement.requestFullscreen();}catch{}}, 10*1000);})();
